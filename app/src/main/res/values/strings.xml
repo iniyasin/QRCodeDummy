@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRCodeDummy</string>
+    <string name="scan_barcode_or_qr_code">Scan Barcode or QR Code</string>
+    <string name="result_will_be_here">Result Will be Here</string>
+</resources>
